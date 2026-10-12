@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables / secrets
+.env
+
+# PyCharm files
+.idea/
+
+# Excel files
+*.xlsx
+
+# CSV files
+*.csv
